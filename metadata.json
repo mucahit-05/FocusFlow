@@ -1,0 +1,6 @@
+{
+  "name": "FocusFlow",
+  "description": "Pomodoro zamanlayıcı, görev yönetimi ve odaklanma istatistikleri sunan derin çalışma uygulaması",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
